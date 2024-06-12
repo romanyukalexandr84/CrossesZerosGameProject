@@ -4,7 +4,7 @@
 
 Для начала работы необходимо запустить файл приложения Main
 
-###### Скриншоты:
+Скриншоты:
 
 ![Screenshot5.png](https://raw.githubusercontent.com/romanyukalexandr84/Images/main/Screenshot5.png)
 
